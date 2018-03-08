@@ -1,4 +1,6 @@
 {
+
+  
     "name": "devdacticBot",
     "version": "0.0.1",
     "description": "Simple testing Node server",
@@ -11,3 +13,4 @@
       "request": "2.56.x"
     }
   }
+
